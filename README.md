@@ -24,8 +24,11 @@ American Sailing Association
  
 ## Sailing Clubs
 
-[Torrey Pines Sailing Club](http://sailtpsc.com)
-[Fairwind Yacht Club](https://www.fairwind.org/)
+* [Torrey Pines Sailing Club](http://sailtpsc.com)
+* [Fairwind Yacht Club](https://www.fairwind.org/)
 
+ ## Sailing Schools
  
+* [OCC School of Sailing & Seamanship](https://occsailing.augusoft.net/)
+
  
