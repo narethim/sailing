@@ -31,4 +31,11 @@ American Sailing Association
  
 * [OCC School of Sailing & Seamanship](https://occsailing.augusoft.net/)
 
- 
+ ## Torrey Pines Sailing Club (TPSC) Boats
+
+| Boats | Qty |  Description   |
+| ---   | --- | --- |
+| [Victory 21](https://sailboatdata.com/sailboat/victory-21)    | 5 | Build by Coronado Yachts, Designer: Ted Carpentier. |
+| [Newport 24](https://sailboatdata.com/sailboat/neptune-24-cb) | 1 | Build by Capttal Yachts Inc.,  |
+| [Catalina 25](https://sailboatdata.com/sailboat/catalina-25)  | 1 | Build by Catalina Yachts., Designer: Frank V. Butler. |
+| [Catalina 27](https://sailboatdata.com/sailboat/catalina-27)  | 1 | Build by Catalina Yachts., Designer: Robert Finch, Frank V. Butler |
