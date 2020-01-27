@@ -33,12 +33,22 @@ American Sailing Association ![Markdown Logo](img/asa.jpg)
 
 ## Torrey Pines Sailing Club (TPSC) Boats
 
-| Boats | Qty |  Description   |
-| ---   | --- | --- |
-| [Victory 21](https://sailboatdata.com/sailboat/victory-21)    | 5 | Build by Coronado Yachts, Designer: Ted Carpentier. |
-| [Newport 24](https://sailboatdata.com/sailboat/neptune-24-cb) | 1 | Build by Capttal Yachts Inc.,  |
-| [Catalina 25](https://sailboatdata.com/sailboat/catalina-25)  | 1 | Build by Catalina Yachts., Designer: Frank V. Butler. |
-| [Catalina 27](https://sailboatdata.com/sailboat/catalina-27)  | 1 | Build by Catalina Yachts., Designer: Robert Finch, Frank V. Butler |
+| Boats | Qty |   Builder   | Designer |
+| ---   | --- |  ---------- | -------- |
+| [Victory 21](https://sailboatdata.com/sailboat/victory-21)    | 5 | Coronado Yachts | Designer: Ted Carpentier. |
+| [Newport 24](https://sailboatdata.com/sailboat/neptune-24-cb) | 1 | Capttal Yachts Inc.,  | |
+| [Catalina 25](https://sailboatdata.com/sailboat/catalina-25)  | 1 | Catalina Yachts.| Frank V. Butler. |
+| [Catalina 27](https://sailboatdata.com/sailboat/catalina-27)  | 1 | Catalina Yachts.| Robert Finch, Frank V. Butler |
+
+## OCC School of Sailing & Seamanship Boats
+
+| Boats | Qty |  Builder   | Designer |
+| ---   | --- | ---------- | -------- |
+| [Lido 14](https://sailboatdata.com/sailboat/lido-14)     | - | W. D. Schock Corp.(USA),   | Barney Lehman/W.D. Schock. |
+| [Harbor 20](https://sailboatdata.com/sailboat/harbor-20) | - | W. D. Schock Corp.(USA),   | Steven Schock |
+| [Shields 30](https://sailboatdata.com/sailboat/shields)  | - | Cape Cod Shipbuilding (USA)| Sparkman & Stephens. |
+| [J/105](https://sailboatdata.com/sailboat/j105)          | - | J Boats Tillotson Pearson (USA) | Johnstone |
+| [Catalina 42](https://sailboatdata.com/sailboat/catalina-42)| - | Catalina Yachts (USA) | Nelson/Marek / Catalina |
 
 ## Resources
 
