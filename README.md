@@ -31,7 +31,13 @@ American Sailing Association ![Markdown Logo](img/asa.jpg)
 
 * [OCC School of Sailing & Seamanship](https://occsailing.augusoft.net/)
 
-## Torrey Pines Sailing Club (TPSC) Boats
+## Torrey Pines Sailing Club (TPSC)
+
+### Info
+
+Membership number: 1293
+
+### Boats
 
 | Boats | Qty |   Builder   | Designer |
 | ---   | --- |  ---------- | -------- |
