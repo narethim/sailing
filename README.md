@@ -43,7 +43,7 @@ Membership number: 1293
 | Boats | Qty |   Builder   | Designer |
 | ---   | --- |  ---------- | -------- |
 | [Victory 21](https://sailboatdata.com/sailboat/victory-21)    | 5 | Coronado Yachts | Designer: Ted Carpentier. |
-| [Newport 24](https://sailboatdata.com/sailboat/neptune-24-cb) | 1 | Capttal Yachts Inc.,  | |
+| [Newport Neptune 24](https://sailboatdata.com/sailboat/neptune-24-cb) | 1 | Capital Yachts Inc.,  | |
 | [Catalina 25](https://sailboatdata.com/sailboat/catalina-25)  | 1 | Catalina Yachts.| Frank V. Butler. |
 | [Catalina 27](https://sailboatdata.com/sailboat/catalina-27)  | 1 | Catalina Yachts.| Robert Finch, Frank V. Butler |
 
