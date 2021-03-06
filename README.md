@@ -24,7 +24,7 @@ American Sailing Association ![Markdown Logo](img/asa.jpg)
 
 ## Sailing Clubs
 
-* [Torrey Pines Sailing Club](http://sailtpsc.com)
+* [Torrey Pines Sailing Club](http://www.sailtpsc.com/torrey-pines-sailing-club/)
 * [Convair Sailing Club](http://www.convair.org/)
 * [Fairwind Yacht Club](https://www.fairwind.org/)
 
