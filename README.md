@@ -28,6 +28,10 @@ American Sailing Association ![Markdown Logo](img/asa.jpg)
 * [Convair Sailing Club](http://www.convair.org/)
 * [Fairwind Yacht Club](https://www.fairwind.org/)
 
+## San Diego Tides
+
+* [Tide Times for San Diego](https://www.tide-forecast.com/locations/San-Diego-California/tides/latest)
+
 ## Sailing Schools
 
 * [OCC School of Sailing & Seamanship](https://occsailing.augusoft.net/)
